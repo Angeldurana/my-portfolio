@@ -19,7 +19,7 @@ const Data = [
   { "id": 18, "name": "Ralph Lauren Polo", "category": "Clothing", "brand": "Ralph Lauren", "quantity": 1, "price": 60.00, "image": "images/RalphLaurenPolo.jpg"  },
   { "id": 19, "name": "Steve Madden Boots", "category": "Shoes", "brand": "Steve Madden", "quantity": 1, "price": 85.00, "image": "images/SteveMaddenBoots.jpg"  },
   { "id": 20, "name": "Fossil Watch", "category": "Accessories", "brand": "Fossil", "quantity": 1, "price": 90.00, "image": "images/FossilWatch.jpg"  },
-  { "id": 21, "name": "Gap T-shirt", "category": "Clothing", "brand": "Gap", "quantity": 1, "price": 15.00, "image": "images/GapT-shirt.jpg" },
+  { "id": 21, "name": "Gap T-shirt", "category": "Clothing", "brand": "Gap", "quantity": 1, "price": 15.00, "image": "images/GapTshirt.jpg" },
   { "id": 22, "name": "New Balance Sneakers", "category": "Shoes", "brand": "New Balance", "quantity": 1, "price": 65.00, "image": "images/NewBalanceSneakers.jpg"  },
   { "id": 23, "name": "Fendi Handbag", "category": "Accessories", "brand": "Fendi", "quantity": 1, "price": 300.00, "image": "images/FendiHandbag.jpg"  },
   { "id": 24, "name": "Diesel Jeans", "category": "Clothing", "brand": "Diesel", "quantity": 1, "price": 80.00, "image": "images/DieselJeans.jpg"  },
